@@ -27,7 +27,7 @@ Welcome to the Sketch to Image Application! This innovative tool transforms your
 
 ## Acknowledgments
 
->**Model used:** xinsir/controlnet-scribble-sdxl-1.0 from Hugging Face  
+>**Model used:** [xinsir/controlnet-scribble-sdxl-1.0](https://huggingface.co/xinsir/controlnet-scribble-sdxl-1.0) from Hugging Face  
 >**Developed by:** xinsir  
 >**Model type:** ControlNet_SDXL  
 >**License:** Apache-2.0   
@@ -35,7 +35,7 @@ A copy of the Apache-2.0 license is included in this repository to comply with t
 
 ---
 
->**Additional Model Used:** Stable-Diffusion-XL-Base-1.0 from Stability AI  
+>**Additional Model Used:** [Stable-Diffusion-XL-Base-1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) from Stability AI  
 >**License:** OpenRAIL++  
 >The model is developed and maintained by **Stability AI**.  
 >See the full OpenRAIL++ License terms [HERE](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/blob/main/LICENSE.md)).
