@@ -1,5 +1,5 @@
-# Sketch to image
-Welcome to the Sketch to Image Application! This innovative tool transforms your hand-drawn sketches, doodles, or input images into beautifully styled images. Whether you prefer a realistic rendering or an artistic interpretation, this application brings your ideas to life effortlessly.
+# Sketch to image Application
+Welcome to the Sketch-to-Image Application! This innovative tool transforms your hand-drawn sketches, doodles, or input images into beautifully styled creations. If your input is a realistic or non-sketched image, it’s first converted into a refined sketch or scribble before being fed to the model. Whether you prefer a realistic rendering or an artistic interpretation, this application brings your ideas to life effortlessly.
 
 
 ## Key Features
@@ -25,12 +25,13 @@ Welcome to the Sketch to Image Application! This innovative tool transforms your
     Experiment with diverse variations by randomizing the seed or recreate specific outputs by setting a fixed seed for reproducibility.  
 
 ## Example 
-
-
+#### **Input (on left) VS Generated Images (on right)**
+![1](https://github.com/user-attachments/assets/d6a03150-8b60-4af4-88ce-5da84e1528aa)
+![2](https://github.com/user-attachments/assets/cddaddec-cfc7-4030-94c0-6d5f1181b282)
 
 ## Acknowledgments
 
->**Model used:** [xinsir/controlnet-scribble-sdxl-1.0](https://huggingface.co/xinsir/controlnet-scribble-sdxl-1.0) from Hugging Face  
+>**Model used:** [xinsir/controlnet-scribble-sdxl-1.0](https://huggingface.co/xinsir/controlnet-scribble-sdxl-1.0)  
 >**Developed by:** xinsir  
 >**Model type:** ControlNet_SDXL  
 >**License:** Apache-2.0   
@@ -39,6 +40,6 @@ A copy of the Apache-2.0 license is included in this repository to comply with t
 ---
 
 >**Additional Model Used:** [Stable-Diffusion-XL-Base-1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) from Stability AI  
->**License:** OpenRAIL++  
->The model is developed and maintained by **Stability AI**.  
+>**Developed and maintained by:** Stability AI  
+>**License:** OpenRAIL++    
 >See the full OpenRAIL++ License terms [HERE](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/blob/main/LICENSE.md)).
