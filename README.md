@@ -3,23 +3,26 @@ Welcome to the Sketch to Image Application! This innovative tool transforms your
 
 
 ## Key Features
-- **Variety of Art Styles**  
-    Choose from an extensive selection of artistic styles including Anime, Neon and Manga each tailored to produce unique and visually captivating results. Each style comes with predefined prompts that can be further personalized.  
-  
-- **Edge Detection & Processing**  
-    Preprocesses images with HED edge detection and non-maximum suppression for improved sketch-like outputs. Images undergo Gaussian blur to smooth out sharp transitions, making them more suitable for processing into art.
-  
-- **Custom Prompts**  
-    Users can input simple text prompts to guide the generation process, tailoring the output to specific creative ideas. Along with the custom user prompt, style-specific negative prompts are used to avoid common image generation pitfalls, ensuring the output meets high-quality standards
-  
-- **Seed Control & Randomization**  
-    Provides options for adjusting random seeds, enabling reproducible results or diverse variations.
-  
+- **Custom Prompts Made Simple**  
+    Generate stunning outputs with short and straightforward text prompts. No need for intricate details—just describe your idea, and the system brings it to life.  
+
+- **Style-Specific Refinements**  
+    Each predefined style leverages tailored negative prompts to avoid common flaws, ensuring the output is visually polished and consistent with the chosen theme.  
+
+- **Advanced Edge Detection**  
+    Input images are processed with HED edge detection, Gaussian blur, and non-maximum suppression to create clean and refined sketch-like outputs, seamlessly preparing them for image generation.  
+
+- **Diverse Style Options**  
+    Explore a variety of styles such as Anime, Neon, and Manga, each carefully designed to produce unique results. Alternatively, the "No Style" option offers flexibility for generating hyper-realistic visuals or minimalist designs.  
+
 - **Interactive Interface**  
-    Built with Gradio, allowing for a seamless and intuitive user experience with real-time image generation.
-  
-- **Advanced Options**  
-    Allows users to fine-tune generation parameters such as steps, guidance scale, and conditioning scale for more precise control over the output. These options empower users to produce more detailed results according to their preferences.
+    Built with Gradio, the user-friendly interface ensures a smooth and intuitive experience, enabling real-time input and instant image generation.  
+
+- **Fine-Tuned Controls**  
+   Adjust parameters like steps, guidance scale, and conditioning scale to refine the output, giving you the tools to achieve precise and detailed results.  
+
+- **Seed Control & Randomization**  
+    Experiment with diverse variations by randomizing the seed or recreate specific outputs by setting a fixed seed for reproducibility.  
 
 ## Example 
 
