@@ -1,4 +1,4 @@
-# Sketch to image Application
+# Sketch to Image Application
 Welcome to the Sketch-to-Image Application! This innovative tool transforms your hand-drawn sketches, doodles, or input images into beautifully styled creations. If your input is a realistic or non-sketched image, it’s first converted into a refined sketch or scribble before being fed to the model. Whether you prefer a realistic rendering or an artistic interpretation, this application brings your ideas to life effortlessly.
 
 
@@ -28,6 +28,12 @@ Welcome to the Sketch-to-Image Application! This innovative tool transforms your
 #### **Input (on left) VS Generated Images (on right)**
 ![1](https://github.com/user-attachments/assets/d6a03150-8b60-4af4-88ce-5da84e1528aa)
 ![2](https://github.com/user-attachments/assets/cddaddec-cfc7-4030-94c0-6d5f1181b282)
+
+
+https://github.com/user-attachments/assets/20584b2b-17ee-4f3b-ae59-0e56fcaf4ce2
+
+
+
 
 ## Acknowledgments
 
