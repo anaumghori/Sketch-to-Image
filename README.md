@@ -24,8 +24,7 @@ Welcome to the Sketch-to-Image Application! This innovative tool transforms your
 - **Seed Control & Randomization**  
     Experiment with diverse variations by randomizing the seed or recreate specific outputs by setting a fixed seed for reproducibility.  
 
-## Example 
-#### **Input (on left) VS Generated Images (on right)**
+## Results: **Input (on left) VS Generated Images (on right)**
 ![1](https://github.com/user-attachments/assets/d6a03150-8b60-4af4-88ce-5da84e1528aa)
 ![2](https://github.com/user-attachments/assets/cddaddec-cfc7-4030-94c0-6d5f1181b282)
 
